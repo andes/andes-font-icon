@@ -21,24 +21,26 @@ $adi-font-path: '~@andes/icons/fonts/';
 
 ## Agregar nuevo ícono
 
-0. Diseñar los íconos [siguiendo esta guía](https://github.com/fontello/fontello/wiki/How-to-use-custom-images#importing-svg-images)
+Diseñar los íconos [siguiendo esta guía](https://github.com/fontello/fontello/wiki/How-to-use-custom-images#importing-svg-images)
 
-1. Instalar/correr Docker
+1. Instalar y correr Docker.
 
-2. `npm run server`: Correr Fontello en el navegador (se abre automáticamente).
+2. Sobre la consola, realizar: `npm run server`. Esta acción corre fontello en el navegador, se abre automáticamente en http://localhost:3000.
 
-3. Agregar íconos, cambiar configuraciones, etc.
+3. En fontello agregar íconos, cambiar configuraciones (nombres, etc).
 
-4. Descargar el archivo (dropdown arriba a la derecha) `config.json` y reemplazarlo en la raíz de proyecto.
+4. Descargar el archivo config.json (dropdown rojo "Download webfont", arriba a la derecha) y reemplazarlo en la raíz de proyecto.
 
-5. Incrementar la versión `package.json`. Por ejemplo: `"version": "1.1.17"`.
+5. Sobre la consola, realizar: `npm run build`. Regenerar todo el paquete de íconos (lo hace usando el archivo config.json, previamente descargado).
 
-6. `git tag [NUEVA VERSION]`: Crear un tag con la versión, tiene que ser la misma que en `package.json`. Por ejemplo: `git tag 1.1.17`
+6. Incrementar la versión package.json. Por ejemplo: "version": "1.1.17"
 
-7. Hacer `commit` y `push` de los cambios.
+7. Hacer commit de los cambios
 
-8. `npm run build`: Regenerar todo el paquete de íconos (lo hace usando el archivo `config.json` previamente descargado).
+8. Luego, crear un tag con la versión (git tag [NUEVA VERSION]), tiene que ser la misma que en package.json. Por ejemplo: `git tag 1.1.17`
 
-9. `npm login` (usando las credenciales de Andes)
+9. Hacer push de los cambios.
 
-10. `npm publish`
+10. Públicar en npm la nueva versión de @andes/icons: 
+- `npm login` (usando las credenciales de Andes)
+- `npm publish` 
