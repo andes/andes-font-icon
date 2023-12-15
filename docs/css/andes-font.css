@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'andes-font';
-  src: url('../font/andes-font.eot?87669123');
-  src: url('../font/andes-font.eot?87669123#iefix') format('embedded-opentype'),
-       url('../font/andes-font.woff2?87669123') format('woff2'),
-       url('../font/andes-font.woff?87669123') format('woff'),
-       url('../font/andes-font.ttf?87669123') format('truetype'),
-       url('../font/andes-font.svg?87669123#andes-font') format('svg');
+  src: url('../font/andes-font.eot?84154271');
+  src: url('../font/andes-font.eot?84154271#iefix') format('embedded-opentype'),
+       url('../font/andes-font.woff2?84154271') format('woff2'),
+       url('../font/andes-font.woff?84154271') format('woff'),
+       url('../font/andes-font.ttf?84154271') format('truetype'),
+       url('../font/andes-font.svg?84154271#andes-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'andes-font';
-    src: url('../font/andes-font.svg?87669123#andes-font') format('svg');
+    src: url('../font/andes-font.svg?84154271#andes-font') format('svg');
   }
 }
 */
@@ -713,3 +713,8 @@
 .adi-pdf-outline:before { content: '\ea8f'; } /* '' */
 .adi-pdf:before { content: '\ea90'; } /* '' */
 .adi-sipplus-circulo:before { content: '\ea91'; } /* '' */
+.adi-agenda-paciente:before { content: '\ea92'; } /* '' */
+.adi-account-si:before { content: '\ea93'; } /* '' */
+.adi-account-cruz:before { content: '\ea94'; } /* '' */
+.adi-account-no:before { content: '\ea95'; } /* '' */
+.adi-calendar-cruz:before { content: '\ea96'; } /* '' */
