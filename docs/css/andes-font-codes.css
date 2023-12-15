@@ -657,3 +657,8 @@
 .adi-pdf-outline:before { content: '\ea8f'; } /* '' */
 .adi-pdf:before { content: '\ea90'; } /* '' */
 .adi-sipplus-circulo:before { content: '\ea91'; } /* '' */
+.adi-agenda-paciente:before { content: '\ea92'; } /* '' */
+.adi-account-si:before { content: '\ea93'; } /* '' */
+.adi-account-cruz:before { content: '\ea94'; } /* '' */
+.adi-account-no:before { content: '\ea95'; } /* '' */
+.adi-calendar-cruz:before { content: '\ea96'; } /* '' */
