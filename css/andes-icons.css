@@ -2006,6 +2006,9 @@
 .adi-calendar-cruz:before {
   content: "\ea96"; }
 
+.adi-habilitar-profesional:before {
+  content: "\ea97"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
