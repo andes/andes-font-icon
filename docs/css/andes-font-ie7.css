@@ -674,3 +674,4 @@
 .adi-account-no { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea95;&nbsp;'); }
 .adi-calendar-cruz { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea96;&nbsp;'); }
 .adi-habilitar-profesional { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea97;&nbsp;'); }
+.adi-listado-reloj { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9c;&nbsp;'); }

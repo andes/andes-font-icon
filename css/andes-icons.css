@@ -2009,6 +2009,9 @@
 .adi-habilitar-profesional:before {
   content: "\ea97"; }
 
+.adi-listado-reloj:before {
+  content: "\ea9c"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
