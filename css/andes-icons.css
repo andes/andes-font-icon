@@ -2012,6 +2012,9 @@
 .adi-listado-reloj:before {
   content: "\ea9c"; }
 
+.adi-listado-receta:before {
+  content: "\ea99"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
