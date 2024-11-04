@@ -675,4 +675,5 @@
 .adi-calendar-cruz { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea96;&nbsp;'); }
 .adi-habilitar-profesional { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea97;&nbsp;'); }
 .adi-listado-receta { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea99;&nbsp;'); }
+.adi-alert-decagram { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9a;&nbsp;'); }
 .adi-listado-reloj { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9c;&nbsp;'); }
