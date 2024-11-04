@@ -2015,6 +2015,9 @@
 .adi-listado-receta:before {
   content: "\ea99"; }
 
+.adi-alert-decagram:before {
+  content: "\ea9a"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
