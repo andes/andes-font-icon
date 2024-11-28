@@ -663,6 +663,13 @@
 .adi-account-no { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea95;&nbsp;'); }
 .adi-calendar-cruz { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea96;&nbsp;'); }
 .adi-habilitar-profesional { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea97;&nbsp;'); }
+.adi-Bold { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea98;&nbsp;'); }
 .adi-listado-receta { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea99;&nbsp;'); }
 .adi-alert-decagram { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9a;&nbsp;'); }
 .adi-listado-reloj { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9c;&nbsp;'); }
+.adi-Underline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9d;&nbsp;'); }
+.adi-Italic { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9f;&nbsp;'); }
+.adi-Bandera-centro { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa7;&nbsp;'); }
+.adi-Bandera-derecha { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa8;&nbsp;'); }
+.adi-Bandera-izquierda { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa9;&nbsp;'); }
+.adi-Justificado { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaaa;&nbsp;'); }
