@@ -663,6 +663,13 @@
 .adi-account-no:before { content: '\ea95'; } /* '' */
 .adi-calendar-cruz:before { content: '\ea96'; } /* '' */
 .adi-habilitar-profesional:before { content: '\ea97'; } /* '' */
+.adi-Bold:before { content: '\ea98'; } /* '' */
 .adi-listado-receta:before { content: '\ea99'; } /* '' */
 .adi-alert-decagram:before { content: '\ea9a'; } /* '' */
 .adi-listado-reloj:before { content: '\ea9c'; } /* '' */
+.adi-Underline:before { content: '\ea9d'; } /* '' */
+.adi-Italic:before { content: '\ea9f'; } /* '' */
+.adi-Bandera-centro:before { content: '\eaa7'; } /* '' */
+.adi-Bandera-derecha:before { content: '\eaa8'; } /* '' */
+.adi-Bandera-izquierda:before { content: '\eaa9'; } /* '' */
+.adi-Justificado:before { content: '\eaaa'; } /* '' */

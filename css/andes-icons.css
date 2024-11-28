@@ -2018,6 +2018,27 @@
 .adi-alert-decagram:before {
   content: "\ea9a"; }
 
+.adi-Bold:before {
+  content: "\ea98"; }
+
+.adi-Underline:before {
+  content: "\ea9d"; }
+
+.adi-Italic:before {
+  content: "\ea9f"; }
+
+.adi-Bandera-centro:before {
+  content: "\eaa7"; }
+
+.adi-Justificado:before {
+  content: "\eaaa"; }
+
+.adi-Bandera-derecha:before {
+  content: "\eaa8"; }
+
+.adi-Bandera-izquierda:before {
+  content: "\eaa9"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
