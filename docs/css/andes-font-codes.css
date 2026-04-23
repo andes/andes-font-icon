@@ -666,10 +666,20 @@
 .adi-Bold:before { content: '\ea98'; } /* '' */
 .adi-listado-receta:before { content: '\ea99'; } /* '' */
 .adi-alert-decagram:before { content: '\ea9a'; } /* '' */
+.adi-pulso:before { content: '\ea9b'; } /* '' */
 .adi-listado-reloj:before { content: '\ea9c'; } /* '' */
 .adi-Underline:before { content: '\ea9d'; } /* '' */
+.adi-escudo-check:before { content: '\ea9e'; } /* '' */
 .adi-Italic:before { content: '\ea9f'; } /* '' */
+.adi-signos vitales:before { content: '\eaa0'; } /* '' */
+.adi-escudo-corazon:before { content: '\eaa1'; } /* '' */
+.adi-Curita:before { content: '\eaa2'; } /* '' */
+.adi-conecciones:before { content: '\eaa3'; } /* '' */
+.adi-corazon-sano:before { content: '\eaa4'; } /* '' */
+.adi-corazon-pulso-outline:before { content: '\eaa5'; } /* '' */
 .adi-Bandera-centro:before { content: '\eaa7'; } /* '' */
 .adi-Bandera-derecha:before { content: '\eaa8'; } /* '' */
 .adi-Bandera-izquierda:before { content: '\eaa9'; } /* '' */
 .adi-Justificado:before { content: '\eaaa'; } /* '' */
+.adi-conecciones-:before { content: '\eaac'; } /* '' */
+.adi-corazon-pulso:before { content: '\eaad'; } /* '' */

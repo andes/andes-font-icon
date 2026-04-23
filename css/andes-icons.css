@@ -2039,6 +2039,36 @@
 .adi-Bandera-izquierda:before {
   content: "\eaa9"; }
 
+.adi-Curita:before {
+  content: "\eaa2"; }
+
+.adi-corazon-pulso-outline:before {
+  content: "\eaa5"; }
+
+.adi-corazon-sano:before {
+  content: "\eaa4"; }
+
+.adi-pulso:before {
+  content: "\ea9b"; }
+
+.adi-escudo-check:before {
+  content: "\ea9e"; }
+
+.adi-conecciones-:before {
+  content: "\eaac"; }
+
+.adi-signos vitales:before {
+  content: "\eaa0"; }
+
+.adi-escudo-corazon:before {
+  content: "\eaa1"; }
+
+.adi-corazon-pulso:before {
+  content: "\eaad"; }
+
+.adi-conecciones:before {
+  content: "\eaa3"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
