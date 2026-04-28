@@ -2039,7 +2039,7 @@
 .adi-Bandera-izquierda:before {
   content: "\eaa9"; }
 
-.adi-Curita:before {
+.adi-curita:before {
   content: "\eaa2"; }
 
 .adi-corazon-pulso-outline:before {
@@ -2054,10 +2054,10 @@
 .adi-escudo-check:before {
   content: "\ea9e"; }
 
-.adi-conecciones-:before {
+.adi-conectar:before {
   content: "\eaac"; }
 
-.adi-signos vitales:before {
+.adi-signos-vitales:before {
   content: "\eaa0"; }
 
 .adi-escudo-corazon:before {
@@ -2068,6 +2068,18 @@
 
 .adi-conecciones:before {
   content: "\eaa3"; }
+
+.adi-video-chat:before {
+  content: "\eaa6"; }
+
+.adi-videocam:before {
+  content: "\eaab"; }
+
+.adi-video-call:before {
+  content: "\eaae"; }
+
+.adi-video-call-outline:before {
+  content: "\eaaf"; }
 
 .adi-blank:before {
   content: "\F68C";
