@@ -687,3 +687,17 @@
 .adi-corazon-pulso:before { content: '\eaad'; } /* '' */
 .adi-video-call:before { content: '\eaae'; } /* '' */
 .adi-video-call-outline:before { content: '\eaaf'; } /* '' */
+.adi-pulmones-outline:before { content: '\eab0'; } /* '' */
+.adi-gastrointestinal-outline:before { content: '\eab1'; } /* '' */
+.adi-aco-outline:before { content: '\eab2'; } /* '' */
+.adi-bloqueante:before { content: '\eab3'; } /* '' */
+.adi-toxi-emer:before { content: '\eab4'; } /* '' */
+.adi-frasco-outline:before { content: '\eab5'; } /* '' */
+.adi-infeccioso:before { content: '\eab6'; } /* '' */
+.adi-metabolismo:before { content: '\eab7'; } /* '' */
+.adi-oftalmologico:before { content: '\eab8'; } /* '' */
+.adi-riñones-outline:before { content: '\eab9'; } /* '' */
+.adi-sist-nervioso:before { content: '\eaba'; } /* '' */
+.adi-otro-frasco:before { content: '\eabb'; } /* '' */
+.adi-uni-gota:before { content: '\eabc'; } /* '' */
+.adi-antineoplasicos:before { content: '\eabd'; } /* '' */

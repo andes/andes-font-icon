@@ -698,3 +698,17 @@
 .adi-corazon-pulso { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaad;&nbsp;'); }
 .adi-video-call { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaae;&nbsp;'); }
 .adi-video-call-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaaf;&nbsp;'); }
+.adi-pulmones-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab0;&nbsp;'); }
+.adi-gastrointestinal-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab1;&nbsp;'); }
+.adi-aco-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab2;&nbsp;'); }
+.adi-bloqueante { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab3;&nbsp;'); }
+.adi-toxi-emer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab4;&nbsp;'); }
+.adi-frasco-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab5;&nbsp;'); }
+.adi-infeccioso { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab6;&nbsp;'); }
+.adi-metabolismo { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab7;&nbsp;'); }
+.adi-oftalmologico { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab8;&nbsp;'); }
+.adi-riñones-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab9;&nbsp;'); }
+.adi-sist-nervioso { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaba;&nbsp;'); }
+.adi-otro-frasco { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabb;&nbsp;'); }
+.adi-uni-gota { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabc;&nbsp;'); }
+.adi-antineoplasicos { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabd;&nbsp;'); }

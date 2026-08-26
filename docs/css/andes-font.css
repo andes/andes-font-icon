@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'andes-font';
-  src: url('../font/andes-font.eot?62231200');
-  src: url('../font/andes-font.eot?62231200#iefix') format('embedded-opentype'),
-       url('../font/andes-font.woff2?62231200') format('woff2'),
-       url('../font/andes-font.woff?62231200') format('woff'),
-       url('../font/andes-font.ttf?62231200') format('truetype'),
-       url('../font/andes-font.svg?62231200#andes-font') format('svg');
+  src: url('../font/andes-font.eot?93076109');
+  src: url('../font/andes-font.eot?93076109#iefix') format('embedded-opentype'),
+       url('../font/andes-font.woff2?93076109') format('woff2'),
+       url('../font/andes-font.woff?93076109') format('woff'),
+       url('../font/andes-font.ttf?93076109') format('truetype'),
+       url('../font/andes-font.svg?93076109#andes-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'andes-font';
-    src: url('../font/andes-font.svg?62231200#andes-font') format('svg');
+    src: url('../font/andes-font.svg?93076109#andes-font') format('svg');
   }
 }
 */
@@ -743,3 +743,17 @@
 .adi-corazon-pulso:before { content: '\eaad'; } /* '' */
 .adi-video-call:before { content: '\eaae'; } /* '' */
 .adi-video-call-outline:before { content: '\eaaf'; } /* '' */
+.adi-pulmones-outline:before { content: '\eab0'; } /* '' */
+.adi-gastrointestinal-outline:before { content: '\eab1'; } /* '' */
+.adi-aco-outline:before { content: '\eab2'; } /* '' */
+.adi-bloqueante:before { content: '\eab3'; } /* '' */
+.adi-toxi-emer:before { content: '\eab4'; } /* '' */
+.adi-frasco-outline:before { content: '\eab5'; } /* '' */
+.adi-infeccioso:before { content: '\eab6'; } /* '' */
+.adi-metabolismo:before { content: '\eab7'; } /* '' */
+.adi-oftalmologico:before { content: '\eab8'; } /* '' */
+.adi-riñones-outline:before { content: '\eab9'; } /* '' */
+.adi-sist-nervioso:before { content: '\eaba'; } /* '' */
+.adi-otro-frasco:before { content: '\eabb'; } /* '' */
+.adi-uni-gota:before { content: '\eabc'; } /* '' */
+.adi-antineoplasicos:before { content: '\eabd'; } /* '' */
